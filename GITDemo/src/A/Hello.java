@@ -6,6 +6,8 @@ public class Hello
 		System.out.println("hi");
 		System.out.println("hello");
 		System.out.println("hello doll");
+		System.out.println("hi duck");
+		System.out.println("hi girls");
 		
 	}
 }
